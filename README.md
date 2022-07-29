@@ -1,4 +1,4 @@
-Hi, 
+Hola a todas! 
 - 👋 I’m @tashdidfahim
 - 👀 Have little bit interested on coding
 - 🌱 I’m currently learning python
